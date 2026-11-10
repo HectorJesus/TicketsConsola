@@ -1,0 +1,14 @@
+C:\dev\sistema de tickets N1N2 por consola\TicketConsola\obj\Debug\net10.0\TicketConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\sistema de tickets N1N2 por consola\TicketConsola\obj\Debug\net10.0\TicketConsola.AssemblyInfoInputs.cache
+C:\dev\sistema de tickets N1N2 por consola\TicketConsola\obj\Debug\net10.0\TicketConsola.AssemblyInfo.cs
+C:\dev\sistema de tickets N1N2 por consola\TicketConsola\obj\Debug\net10.0\TicketConsola.csproj.CoreCompileInputs.cache
+C:\dev\sistema de tickets N1N2 por consola\TicketConsola\bin\Debug\net10.0\TicketConsola.exe
+C:\dev\sistema de tickets N1N2 por consola\TicketConsola\bin\Debug\net10.0\TicketConsola.deps.json
+C:\dev\sistema de tickets N1N2 por consola\TicketConsola\bin\Debug\net10.0\TicketConsola.runtimeconfig.json
+C:\dev\sistema de tickets N1N2 por consola\TicketConsola\bin\Debug\net10.0\TicketConsola.dll
+C:\dev\sistema de tickets N1N2 por consola\TicketConsola\bin\Debug\net10.0\TicketConsola.pdb
+C:\dev\sistema de tickets N1N2 por consola\TicketConsola\obj\Debug\net10.0\TicketConsola.dll
+C:\dev\sistema de tickets N1N2 por consola\TicketConsola\obj\Debug\net10.0\refint\TicketConsola.dll
+C:\dev\sistema de tickets N1N2 por consola\TicketConsola\obj\Debug\net10.0\TicketConsola.pdb
+C:\dev\sistema de tickets N1N2 por consola\TicketConsola\obj\Debug\net10.0\TicketConsola.genruntimeconfig.cache
+C:\dev\sistema de tickets N1N2 por consola\TicketConsola\obj\Debug\net10.0\ref\TicketConsola.dll
